@@ -1,0 +1,7 @@
+curl -X POST \
+  http://localhost:8800/ \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'postman-token: 30667633-031c-79f2-32c8-45d9a2b38f31' \
+  -d '["https://eax.me/", "https://github.com/scala/scala-xml", "http://dsfsdfadjqwerjzzz.ru/"]
+'
